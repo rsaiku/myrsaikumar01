@@ -10,4 +10,4 @@
   - name: i want to install webserver
     apt:
      name: apache2
-     service: start
+     service: started
